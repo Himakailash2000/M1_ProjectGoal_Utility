@@ -1,3 +1,7 @@
 ## High Level Design
-Use Case
-![IMG](2_Architecture/usecase.png)
+* Use Case
+* Class Diagram
+
+## Low Level Diagram
+* State diagram
+* Sequence diagram
