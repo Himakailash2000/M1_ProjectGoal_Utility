@@ -7,3 +7,5 @@
 |3_Implementation|Contains source, header, main codes|
 |4_TestPlanAndOutPut|test plan|
 |5_Report|Documantation of the project|
+|6_ImagesAndVideos|Contains Screen shots of outputs|
+|7_others|Any other information to be added|
