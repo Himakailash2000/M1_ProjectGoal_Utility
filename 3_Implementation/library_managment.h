@@ -1,5 +1,5 @@
-#ifndef __LIBRARY_MANAGEMENT_SYSTEM_H__
-#define __LIBRARY_MANAGEMENT_SYSTEM_H__
+#ifndef LIBRARY_MANAGEMENT_SYSTEM_H
+#define LIBRARY_MANAGEMENT_SYSTEM_H
 
 #include<stdio.h>
 #include<stdlib.h>
