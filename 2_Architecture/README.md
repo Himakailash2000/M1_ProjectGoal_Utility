@@ -1,5 +1,3 @@
-## Design
-* Structural
-* Behavioural
-* Flow Chart
-* Use case diagram 
+## High Level Design
+Use Case
+![IMG](2_Architecture/usecase.png)
