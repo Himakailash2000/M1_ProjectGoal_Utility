@@ -5,9 +5,9 @@ PROJECT_NAME = LMS
 SRC = main.c\
 src/Addbook.c\
 src/Deletebook.c\
-src/issuebook.c\
+src/Issuebook.c\
 src/Searchbook.c\
-src/viewbooks.c
+src/Viewbooks.c
 
 TEST_SRC = src/Addbook.c\
 src/Deletebook.c\
