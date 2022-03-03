@@ -11,9 +11,9 @@ src/Viewbooks.c
 
 TEST_SRC = src/Addbook.c\
 src/Deletebook.c\
-src/issuebook.c\
+src/Issuebook.c\
 src/Searchbook.c\
-src/viewbooks.c\
+src/Viewbooks.c\
 unity/unity.c\
 test/test_Managment.c
 
